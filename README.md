@@ -1,0 +1,15 @@
+## Hi, My name is Swabulah Namirembe 👋
+
+
+- 🔭 I am a BIT student, learning programming languages  S
+- I enjoying exploring technology
+  
+What i'm learning
+- HTML & CSS
+- Javascript
+- Git and GitHub
+  
+- ⚡ Fun fact:
+- I learning new things 💡
+- I like solving problems 
+-->
