@@ -1,7 +1,7 @@
 ## Hi, My name is Swabulah Namirembe 👋
 
 
-- 🔭 I am a BIT student, learning programming languages  S
+- 🔭 I am a BIT student, learning programming languages  
 - I enjoying exploring technology
   
 What i'm learning
