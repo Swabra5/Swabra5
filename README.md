@@ -10,6 +10,6 @@ What i'm learning
 - Git and GitHub
   
 - ⚡ Fun fact:
-- I learning new things 💡
+- I love learning new things 💡
 - I like solving problems 
 -->
